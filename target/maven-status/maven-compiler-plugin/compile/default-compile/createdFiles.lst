@@ -1,9 +1,0 @@
-com/xashytech/university/config/WebConfig.class
-com/xashytech/university/dao/StudentDAO$StudentRowMapper.class
-com/xashytech/university/controller/StudentController.class
-com/xashytech/university/model/Student.class
-com/xashytech/university/service/StudentService.class
-com/xashytech/university/config/AppConfig.class
-com/xashytech/university/config/AppConfig$DatabaseInitializer.class
-com/xashytech/university/dao/StudentDAO.class
-com/xashytech/university/service/StudentService$StudentStatistics.class
