@@ -1,0 +1,10 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Xashy Tech University Student Portal,com.xashytech.university.service,StudentService,73,220,11,21,11,45,14,19,4,13
+Xashy Tech University Student Portal,com.xashytech.university.service,StudentService.StudentStatistics,0,27,0,0,0,10,0,5,0,5
+Xashy Tech University Student Portal,com.xashytech.university.model,Student,117,137,22,13,29,40,30,22,12,21
+Xashy Tech University Student Portal,com.xashytech.university.config,AppConfig.DatabaseInitializer,310,0,6,0,21,0,6,0,3,0
+Xashy Tech University Student Portal,com.xashytech.university.config,WebConfig,110,0,0,0,22,0,5,0,5,0
+Xashy Tech University Student Portal,com.xashytech.university.config,AppConfig,8,0,0,0,2,0,2,0,2,0
+Xashy Tech University Student Portal,com.xashytech.university.controller,StudentController,163,0,4,0,43,0,14,0,12,0
+Xashy Tech University Student Portal,com.xashytech.university.dao,StudentDAO,342,0,18,0,59,0,21,0,12,0
+Xashy Tech University Student Portal,com.xashytech.university.dao,StudentDAO.StudentRowMapper,78,0,4,0,18,0,3,0,1,0
